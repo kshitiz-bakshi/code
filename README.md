@@ -19,6 +19,7 @@ HTML front end Will take the python code as input and process it
 
 
 Expected GUI 
+<img width="1268" alt="Screenshot 2020-09-13 at 1 11 31 AM" src="https://user-images.githubusercontent.com/65666089/93003747-e111ea00-f55e-11ea-9245-225126e66768.png">
 
 
 
